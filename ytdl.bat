@@ -2,7 +2,7 @@
 
 REM Edit only the download file
 set dl-path="%USERPROFILE%\Desktop"
-set ytdl-path="%CD%/youtube-dl"
+set ytdl-path="%CD%/libs/youtube-dl"
 
 echo %ytdl-path%
 
