@@ -4,8 +4,6 @@ REM Edit only the download file
 set dl-path="%USERPROFILE%\Desktop"
 set ytdl-path="%CD%/libs/youtube-dl"
 
-echo %ytdl-path%
-
 :choice
 set /p yturl=What YT video do you want to download?:
 set /P c=Download audio only [Y/n]?
