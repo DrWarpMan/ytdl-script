@@ -2,7 +2,7 @@
 ### Simple Youtube Video/Audio Downloader
 - run the **ytdl.bat** file and follow the instructions
 - you can also create a desktop shortcut via the **create-desktop-shortcut.bat** file
-- supports both 32/64-bit Windows
+- supports only 64-bit Windows
 
 ## Libraries
 - youtube-dl (https://youtube-dl.org)
