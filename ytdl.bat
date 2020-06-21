@@ -2,7 +2,7 @@
 
 REM Edit only the download file
 set dl-path="%USERPROFILE%\Desktop"
-set ytdl-path="%CD%/libs/youtube-dl"
+set ytdl-path="%~dp0\libs\youtube-dl"
 
 :choice
 set /p yturl=What YT video do you want to download?:
