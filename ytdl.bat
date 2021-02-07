@@ -1,6 +1,6 @@
 @ECHO OFF
 
-REM Edit only the download file
+REM Edit only the download path
 set dl-path="%USERPROFILE%\Desktop"
 set ytdl-path="%~dp0\libs\youtube-dl"
 
